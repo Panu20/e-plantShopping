@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import './AboutUs.css';
-import { useDispatch } from 'react-redux';
 import { addItem } from './CartSlice';
 
 function AboutUs() {
